@@ -30,3 +30,5 @@ while cnt_moves>0:
             else:
                 print("ПОБЕДИЛ Игрок2")
             break
+    if cnt_moves==0:
+          print("НИЧЬЯ")
